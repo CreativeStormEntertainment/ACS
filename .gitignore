@@ -10,6 +10,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/[Aa]ssets/GPUInstancer/
+/[Aa]ssets/StreamingAssets/
+/[Aa]ssets/Water_FX_Collection/
+
+/[Aa]ssets/ArtAssets/Texture/
+/[Aa]ssets/ArtAssets/video/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
